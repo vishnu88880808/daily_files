@@ -1,0 +1,20 @@
+customer_id,customer_name,address,phone_number,email,salary,updated_at
+C001,John Doe,123 Main St,9876543210,john.doe@email.com,50000.0,2024-01-10 10:00:00
+C002,Jane Smith,456 Elm St,9123456789,jane.smith@email.com,60000.0,2024-01-11 11:00:00
+C001,John Doe,123 Main St,9876543210,john.doe@email.com,50000.0,2024-01-10 10:00:00
+C003,,789 Oak St,9876512345,mike.brown@email.com,55000.0,2024-01-12 12:00:00
+C004,Sara Lee,,9123498765,sara.lee@email.com,,2024-01-13 13:00:00
+C005,Robert King,567 Pine St,,robert.king@email.com,45000.0,2024-01-14 14:00:00
+C001,John Doe,789 Maple St,9876543210,john.doe@email.com,52000.0,2024-02-01 15:00:00
+C002,Jane Smith,456 Elm St,9123456789,jane.smith@email.com,65000.0,2024-02-02 16:00:00
+C006,Emily Clark,101 Birch St,9998887777,emily.clark@email.com,70000.0,2024-01-15 10:00:00
+C007,Michael White,202 Cedar St,8887776666,michael.white@email.com,72000.0,2024-01-16 11:00:00
+C008,Jessica Brown,303 Redwood St,7776665555,jessica.brown@email.com,68000.0,2024-01-17 12:00:00
+C009,David Wilson,404 Spruce St,6665554444,david.wilson@email.com,75000.0,2024-01-18 13:00:00
+C010,Sophia Hall,505 Aspen St,5554443333,sophia.hall@email.com,77000.0,2024-01-19 14:00:00
+C006,Emily Clark,101 Birch St,9998887777,emily.clark@email.com,70000.0,2024-01-15 10:00:00
+C011,Chris Green,,4443332222,chris.green@email.com,69000.0,2024-01-20 15:00:00
+C012,,606 Maple St,3332221111,no.name@email.com,63000.0,2024-01-21 16:00:00
+C009,David Wilson,404 Spruce St,6665554444,david.wilson@email.com,78000.0,2024-02-05 10:30:00
+C013,Emma Davis,707 Oak St,2221110000,emma.davis@email.com,65000.0,2024-01-22 17:00:00
+C014,Liam Scott,808 Pine St,1110009999,liam.scott@email.com,71000.0,2024-01-23 18:00:00
